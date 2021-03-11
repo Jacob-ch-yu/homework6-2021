@@ -92,7 +92,7 @@ header{
 #logo{
   width: 420;   /* logo size too big in mobileview */
   animation-name: logo_grow;
-  animation-duration: 5s;
+  animation-duration: 15s;
 
    /*Your code here.*/
  
